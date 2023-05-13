@@ -1,10 +1,10 @@
-# Complex GitHub Usage Function with Rust and Tokio
+# Rust Authenticator based on OAUTH2
 
 This function demonstrates a more complex usage of the `github_async` function, which retrieves an access token from GitHub using OAuth2. It showcases how to interact with the GitHub API to list public repositories and retrieve user email addresses using Rust and the Tokio async runtime.
 
 ## Rust, Tokio, and API Interaction
 
-Rust is a systems programming language that emphasizes safety, concurrency, and performance. It is well-suited for building high-performance and reliable applications, such as web services and API clients.
+Rust is a systems programming language that emphasizes safety, concurrency, and performance. It is well-suited for building high-performance and reliable applications, such as web services and API clients
 
 Tokio is an asynchronous runtime for Rust that allows you to write asynchronous code using the `async`/`await` syntax. It is built on top of Rust's `async-std` library and provides an event-driven, non-blocking I/O model for efficient execution of tasks.
 
